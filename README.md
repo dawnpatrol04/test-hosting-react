@@ -1,8 +1,14 @@
-# Getting Started with Create React App
+# React App Deployment Test
+
+This project is a test for deploying a React app to GitHub Pages. The actual React app should be visible at the GitHub Pages URL, not this README.
+
+If you're seeing this README instead of the React app, there might be an issue with the deployment process.
+
+## Development Information
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+### Available Scripts
 
 In the project directory, you can run:
 
