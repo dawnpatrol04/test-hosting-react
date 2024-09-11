@@ -42,3 +42,11 @@ jobs:
         git fetch origin gh-pages
         git checkout gh-pages
         ls -R
+
+    - name: Debug - Check index.html content
+      run: |
+        cat index.html
+
+    - name: Debug - Check asset-manifest.json
+      run: |
+        cat asset-manifest.json
